@@ -1,0 +1,49 @@
+Partlist
+
+Exported from megamepper.sch at 16/04/18 17:52
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library  Sheet
+
+C1                      C-USC0805K C0805K   adafruit 1
+C2                      C-USC0805K C0805K   adafruit 1
+C3                      C-USC0805K C0805K   adafruit 1
+C4                      C-USC0805K C0805K   adafruit 1
+C5                      C-USC0805K C0805K   adafruit 1
+C6                      C-USC0805K C0805K   adafruit 1
+C7                      C-USC0805K C0805K   adafruit 1
+C8                      C-USC0805K C0805K   adafruit 1
+C9                      C-USC0805K C0805K   adafruit 1
+C11                     C-USC0805K C0805K   adafruit 1
+C13                     C-USC0805K C0805K   adafruit 1
+C15                     C-USC0805K C0805K   adafruit 1
+IC1      74HCT670D      74HCT670D  SO16     74xx-eu  1
+IC2      74HCT670D      74HCT670D  SO16     74xx-eu  1
+IC3      74LS688DW      74LS688DW  SO20W    74xx-eu  1
+IC5      74LS138D       74LS138D   SO16     74xx-eu  1
+IC7      74HCT32D       74HCT32D   SO14     74xx-eu  1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+RAM1                    KM684000   SOP32L   memory   1
+
+Optionals:
+IC4      74HCT670D      74HCT670D  SO16     74xx-eu  1
+IC6      74HCT670D      74HCT670D  SO16     74xx-eu  1
+IC7      74HCT32D       74HCT32D   SO14     74xx-eu  1
+C10                     C-USC0805K C0805K   adafruit 1
+C12                     C-USC0805K C0805K   adafruit 1
+C14                     C-USC0805K C0805K   adafruit 1
+
+
+Fit only if you dont solder IC4, IC6 and IC7:
+R1       0              R-US_R0805 R0805    adafruit 1
+
+
